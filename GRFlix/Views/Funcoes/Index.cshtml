@@ -29,7 +29,7 @@
                     <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
                     <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+                    <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Calcular Expressão</button>
 
                 </td>
             </tr>
@@ -64,6 +64,12 @@
     <script>
         $(document).ready(function () {
             $('#table_id').DataTable();
+
+            $('.btn-lg').on('click', function () {
+                const expressao = this.parentNode.parentNode.firstElementChild.innerText;
+
+                $('.modal-body').html(`Resultado da expressão: ${expressao} = ${eval(expressao)}`);
+            });
         });
     </script>
 

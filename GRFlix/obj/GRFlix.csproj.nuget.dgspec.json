@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos empresa\\aa\\GRFlix\\GRFlix.csproj": {}
+    "D:\\Arquivos empresa\\GRFlix\\GRFlix\\GRFlix.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos empresa\\aa\\GRFlix\\GRFlix.csproj": {
+    "D:\\Arquivos empresa\\GRFlix\\GRFlix\\GRFlix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos empresa\\aa\\GRFlix\\GRFlix.csproj",
+        "projectUniqueName": "D:\\Arquivos empresa\\GRFlix\\GRFlix\\GRFlix.csproj",
         "projectName": "GRFlix",
-        "projectPath": "D:\\Arquivos empresa\\aa\\GRFlix\\GRFlix.csproj",
+        "projectPath": "D:\\Arquivos empresa\\GRFlix\\GRFlix\\GRFlix.csproj",
         "packagesPath": "C:\\Users\\LUCASRAFAELRICCI\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos empresa\\aa\\GRFlix\\obj\\",
+        "outputPath": "D:\\Arquivos empresa\\GRFlix\\GRFlix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LUCASRAFAELRICCI\\AppData\\Roaming\\NuGet\\NuGet.Config",

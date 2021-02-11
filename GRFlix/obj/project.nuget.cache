@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EdLcpWBwg4lea6hqly7Z/moNAVcn5yVYYmynXjZHqDgS8jQUf8y3Shlb+Xs5N4bLxptGzvhQca7dwkCRSd7nyQ==",
+  "dgSpecHash": "fJZXXLE5wyt8NjHFMRwnCNA5SSZYMXIiKk0+pR80amXg8GK0XO6SRlIi0H/oaq5W5NAqo+6PquXXaaI7yrHuaw==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos empresa\\aa\\GRFlix\\GRFlix.csproj",
+  "projectFilePath": "D:\\Arquivos empresa\\GRFlix\\GRFlix\\GRFlix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LUCASRAFAELRICCI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LUCASRAFAELRICCI\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
